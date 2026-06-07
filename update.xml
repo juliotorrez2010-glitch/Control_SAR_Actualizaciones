@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://github.com/juliotorrez2010-glitch/Control_SAR_Actualizaciones/releases/latest/download/ControlImpuestos.zip</url>
+    <url>https://github.com/juliotorrez2010-glitch/Control_SAR_Actualizaciones/releases/latest/download/Instalador.exe</url>
+    <args>/SILENT</args>
 </item>
